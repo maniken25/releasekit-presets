@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Melodic Techno",
+    "subGain": 3,
+    "mudGain": -1.5,
+    "bodyGain": 0.5,
+    "presenceGain": 1.5,
+    "airGain": 2
+  },
+  {
+    "name": "Afro House",
+    "subGain": 4,
+    "warmthGain": 1,
+    "mudGain": -2,
+    "bodyGain": 1,
+    "presenceGain": 1,
+    "sibilanceGain": -0.5,
+    "airGain": 1.5
+  }
+]
