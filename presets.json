@@ -16,5 +16,106 @@
     "presenceGain": 1,
     "sibilanceGain": -0.5,
     "airGain": 1.5
+  },
+  {
+    "name": "Radio Ready",
+    "subGain": -2.0,
+    "warmthGain": 1.0,
+    "mudGain": -1.5,
+    "bodyGain": 0.5,
+    "presenceGain": 2.0,
+    "sibilanceGain": -1.0,
+    "airGain": 1.5
+  },
+  {
+    "name": "Deep Bass",
+    "subGain": 3.0,
+    "warmthGain": 1.5,
+    "mudGain": -1.0,
+    "bodyGain": 1.0,
+    "presenceGain": 0.0,
+    "sibilanceGain": 0.0,
+    "airGain": 0.5
+  },
+  {
+    "name": "Vocal Clarity",
+    "subGain": -1.5,
+    "warmthGain": 0.5,
+    "mudGain": -2.5,
+    "bodyGain": 0.5,
+    "presenceGain": 2.5,
+    "sibilanceGain": -1.5,
+    "airGain": 1.5
+  },
+  {
+    "name": "EDM Punch",
+    "subGain": 3.5,
+    "warmthGain": 0.0,
+    "mudGain": -2.0,
+    "bodyGain": 0.0,
+    "presenceGain": 1.5,
+    "sibilanceGain": -0.5,
+    "airGain": 2.5
+  },
+  {
+    "name": "Lo-Fi Warm",
+    "subGain": 1.0,
+    "warmthGain": 2.5,
+    "mudGain": 0.5,
+    "bodyGain": 1.0,
+    "presenceGain": -1.5,
+    "sibilanceGain": -1.0,
+    "airGain": -2.0
+  },
+  {
+    "name": "Podcast Voice",
+    "subGain": -3.0,
+    "warmthGain": 1.0,
+    "mudGain": -2.0,
+    "bodyGain": 1.5,
+    "presenceGain": 1.5,
+    "sibilanceGain": -1.5,
+    "airGain": 0.5
+  },
+  {
+    "name": "Hip-Hop Heavy",
+    "subGain": 3.0,
+    "warmthGain": 1.5,
+    "mudGain": -1.0,
+    "bodyGain": 1.5,
+    "presenceGain": 1.0,
+    "sibilanceGain": -0.5,
+    "airGain": 1.0
+  },
+  {
+    "name": "Acoustic Natural",
+    "subGain": -0.5,
+    "warmthGain": 1.0,
+    "mudGain": -1.0,
+    "bodyGain": 1.0,
+    "presenceGain": 0.5,
+    "sibilanceGain": -0.5,
+    "airGain": 1.0
+  },
+  {
+    "name": "Bright Pop",
+    "subGain": 0.5,
+    "warmthGain": 0.0,
+    "mudGain": -1.5,
+    "bodyGain": 0.0,
+    "presenceGain": 2.0,
+    "sibilanceGain": -1.0,
+    "airGain": 2.0
+  },
+  {
+    "name": "Cinematic Wide",
+    "subGain": 1.5,
+    "warmthGain": 1.5,
+    "mudGain": -0.5,
+    "bodyGain": 1.0,
+    "presenceGain": 1.0,
+    "sibilanceGain": -0.5,
+    "airGain": 1.5
   }
 ]
+
